@@ -35,7 +35,7 @@
 * [Stoic Investor](https://github.com/Kenrockender/stoic-investor) ([demo](https://stoic-investor.streamlit.app/)): a Bitcoin and gold tracker with a Prophet forecast. I backtested the forecast 564 times and "no change" beat it at every horizon up to 90 days, so the app shows its own track record.
 * Digital Gold ([case study](https://kennethportofolio.vercel.app/bitcoin-vs-gold.html)): twelve years of Bitcoin, gold and US stock prices, in Python and SQL. Bitcoin's weekly correlation with gold was 0.09. My first version had four errors, one of them annualising volatility with 252 days for an asset that trades 365.
 * [Portfolio.SYS](https://github.com/Kenrockender/portfolio-sys) ([demo](https://portfolio-sys-five.vercel.app)): a net worth dashboard for Indonesian investors. It reads statements from 9 platforms, reconciles a cost basis for each asset and applies PPh 22 and stamp duty, with an audit trail, unit tests and CI.
-* [JagoJual](https://github.com/Kenrockender/jagojual-aic): an AI sales trainer for offline store sales teams. Team of 3, 15th of the Top 50 in the COMPFEST 18 AI Innovation Challenge.
+* [JagoJual](https://github.com/jojondrw/JagoJual): an AI sales trainer for offline store sales teams. Team of 3, 15th of the Top 50 in the COMPFEST 18 AI Innovation Challenge.
 * [Kelola ERP](https://github.com/Kenrockender/kelola-erp-demo) ([demo](https://kelola-erp-demo.vercel.app/)): a local first ERP for a real business client, with sales, purchasing, inventory, finance, an audit trail and period lock. The public demo uses sample data only.
 
 More projects are on [my site](https://kennethportofolio.vercel.app).
